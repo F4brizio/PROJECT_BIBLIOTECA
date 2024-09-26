@@ -3,6 +3,6 @@ Sistema de Biblioteca
 
 Autores:  
 Ricardo Ramos Zevallos - Director del Proyecto y Programador  
-Alejandro Briceño - Programador y Dcoumentación Técnica  
+Alejandro Briceño - Programador y Documentación Técnica  
 Wilber Quillca - Programador y Seguridad Informática  
 Wadid Castilla - Programador y Tester
